@@ -137,6 +137,6 @@ rapgeniusClient.searchSong("Liquid Swords", "rap", searchCallback);
 - Refactor code base
 - Improve performance
 
-## Licence
+## License
 
 MIT (Make It Tremendous)
